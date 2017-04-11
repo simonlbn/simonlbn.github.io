@@ -2,7 +2,7 @@
 title: Sensors
 ---
 
-# Sensors
+# Temperature and Humidity Sensors
 
 | Sensor  | Price | Voltage |  Range       | T Typ | T Max | Hum Typ | Hum Max |
 | ------- | ----- | ------- | ------------ | ----- | ----- | ------- | ------- |
