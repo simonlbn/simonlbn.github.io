@@ -13,6 +13,7 @@ title: Sensors
 | HDC1010 | 11.95 |   5C to 60C |  0.20C       |  0.40C  |
 | HDC1080 | 10.95 |   5C to 60C |  0.20C       |  0.40C  |
 | Si7051  |  8.95 |  20C to 70C |  0.13C       |  0.13C  |
+| Si7055
 
 ## HDC1080
 
@@ -36,10 +37,14 @@ title: Sensors
 
 ## Si7051
 
-$8.95
+* [Closedcube](https://www.tindie.com/products/closedcube/si7051-01c-max-digital-temperature-sensor/)
 
-https://www.tindie.com/products/closedcube/si7051-01c-max-digital-temperature-sensor/
+### Accuracy
 
-* Â±0.1C: +35.8C to 41C
-* Â±0.13C: 20.0C to 70.0C
-* Â±0.25C: â€“40 Â°C to +125C
+* ±0.1C:  +35.8C to +41C
+* ±0.13C: +20C to +70C
+* ±0.25C: -40C to +125C
+
+## Si7055
+
+* [Closedcube](https://www.tindie.com/products/closedcube/si7055-05c-max-digital-temperature-sensor/)
