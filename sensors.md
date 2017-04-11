@@ -6,8 +6,8 @@ title: Sensors
 
 | Sensor  | Price |  Range       | T Typ | T Max | Hum Typ | Hum Max |
 | ------- | ----- | ------------ | ----- | ----- | ------- | ------- |
-| DHT11   |       | -40C to 80C  |       | 2.00C | 4.0     | 5.0     |
-| DHT22   |       | -40C to 80C  | 0.50C |       | 2.0     | 5.0     |
+| DHT11   |  5.00 | -40C to 80C  |       | 2.00C | 4.0     | 5.0     |
+| DHT22   |  9.95 | -40C to 80C  | 0.50C |       | 2.0     | 5.0     |
 | DS18B20 |       | -10C to 85C  | 0.50C | 0.50C | N/A     | N/A     |
 | HDC1010 | 11.95 |   5C to 60C  | 0.20C | 0.40C | 2.0     | 3.0     |
 | HDC1080 | 10.95 |   5C to 60C  | 0.20C | 0.40C | 2.0     | 4.0     |
@@ -21,6 +21,14 @@ title: Sensors
 * T Max = Temperature Max &plusmn;
 * 
 
+## DHT11
+
+* [Adafruit](https://www.adafruit.com/product/386) $5.
+
+## DHT22
+
+* [Adafruit](https://www.adafruit.com/product/385) $9.95.
+* [Hobbycomponents](http://hobbycomponents.com/sensors/167-dht22-digital-temperature-humidity-sensor-module) £4.99.
 
 ## HDC1080
 
