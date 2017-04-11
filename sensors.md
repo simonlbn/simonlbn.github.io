@@ -4,7 +4,7 @@ title: Sensors
 
 # Sensors
 
-| Sensor  | Price |  Range      | Accuracy Typ ± | Accuracy Max ± |
+| Sensor  | Price |  Range      | Accuracy Typ | Accuracy Max |
 | ------- | ----- | ----------- | -------------- | ------------ |
 | SHT30-D |       |   0C to 76C |  0.20C        |         |
 | SHT31-D | 12.95 |   0C to 90C |  0.20C        |         | 
