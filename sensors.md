@@ -25,11 +25,12 @@ title: Sensors
 
 ## SHT30-D
 
+* [Wemos](https://www.aliexpress.com/store/product/SHT30-Shield-for-WeMos-D1-mini-SHT30-I2C-digital-temperature-and-humidity-sensor-module/1331105_32762136940.html) [Aliexpress](https://www.wemos.cc/blog/sht30-shield-release.html)
 
 ## SHT31-D
 
-* [Closedcube](https://www.tindie.com/products/closedcube/sht31-d-digital-humidity-and-temperature-sensor/)
 * [Adafruit](https://www.adafruit.com/product/2857)
+* [Closedcube](https://www.tindie.com/products/closedcube/sht31-d-digital-humidity-and-temperature-sensor/)
 
 ## SHT35-D
 
