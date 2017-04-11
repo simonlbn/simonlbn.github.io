@@ -4,7 +4,7 @@ title: Sensors
 
 # Sensors
 
-| Sensor  | Price |  Range       | Accuracy Typ± | Accuracy Max± |
+| Sensor  | Price |  Range       | Accuracy Typ&plusmn; | Accuracy Max&plusmn; |
 | ------- | ----- | ------------ | ------------- | ------------- |
 | DS18B20 |       | -10C to 85C  |  0.50C        |  0.50C  |
 | HDC1010 | 11.95 |   5C to 60C  |  0.20C        |  0.40C  |
