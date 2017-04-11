@@ -1,3 +1,7 @@
+---
+title: Sensors
+---
+
 # Sensors
 
 ## SHT30-D
