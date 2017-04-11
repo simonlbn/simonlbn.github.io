@@ -4,16 +4,16 @@ title: Sensors
 
 # Sensors
 
-| Sensor  | Price |  Range      | Accuracy Typ | Accuracy Max |
-| ------- | ----- | ----------- | -------------- | ------------ |
-| SHT30-D |       |   0C to 76C |  0.20C        |         |
-| SHT31-D | 12.95 |   0C to 90C |  0.20C        |         | 
-| SHT35-D | 17.95 |  20C to 60C |  0.10C        |         |
-| DS18B20 |       | -10C to 85C |  0.50C        |  0.50C  |
-| HDC1010 | 11.95 |   5C to 60C |  0.20C        |  0.40C  |
-| HDC1080 | 10.95 |   5C to 60C |  0.20C        |  0.40C  |
-| Si7051  |  8.95 |  20C to 70C |  0.13C        |  0.13C  |
-| Si7055  |  4.95 |             |  0.40C        |  0.50C  |
+| Sensor  | Price |  Range       | Accuracy Typ± | Accuracy Max± |
+| ------- | ----- | ------------ | ------------- | ------------- |
+| DS18B20 |       | -10C to 85C  |  0.50C        |  0.50C  |
+| HDC1010 | 11.95 |   5C to 60C  |  0.20C        |  0.40C  |
+| HDC1080 | 10.95 |   5C to 60C  |  0.20C        |  0.40C  |
+| SHT30-D |       |   0C to 76C  |  0.20C        |         |
+| SHT31-D | 12.95 |   0C to 90C  |  0.20C        |         | 
+| SHT35-D | 17.95 |  20C to 60C  |  0.10C        |         |
+| Si7051  |  8.95 |  20C to 70C  |  0.13C        |  0.13C  |
+| Si7055  |  4.95 | -40C to 125C |  0.40C        |  0.50C  |
 
 ## HDC1080
 
