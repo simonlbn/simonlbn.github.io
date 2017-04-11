@@ -19,7 +19,8 @@ title: Sensors
 
 * T Typ = Temperature Typical &plusmn;
 * T Max = Temperature Max &plusmn;
-* 
+* Hum Typ = Humidity Typical &plusmn;
+* Hum Max = Humidity Max &plusmn;
 
 ## DHT11
 
