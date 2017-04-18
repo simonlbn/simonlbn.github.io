@@ -79,5 +79,7 @@ breakout board or something with sane pins.
 
 ## HTU21D(F)
 
-* http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FHPC199_6%7FA%7Fpdf%7FEnglish%7FENG_DS_HPC199_6_A.pdf%7FCAT-HSC0004
+* [Datasheet](http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FHPC199_6%7FA%7Fpdf%7FEnglish%7FENG_DS_HPC199_6_A.pdf%7FCAT-HSC0004)
 * Humid range of specified accuracy 20-80 %RH
+* [Adafrui](https://www.adafruit.com/product/1899)
+* [Blkbox](https://www.tindie.com/products/blkbox/htu21d-digital-humidity-sensor-module/)
