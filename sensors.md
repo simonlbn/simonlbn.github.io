@@ -29,7 +29,7 @@ title: Sensors
 ## DHT22
 
 * [Adafruit](https://www.adafruit.com/product/385) $9.95.
-* [Hobbycomponents](http://hobbycomponents.com/sensors/167-dht22-digital-temperature-humidity-sensor-module) £4.99.
+* [Hobbycomponents](http://hobbycomponents.com/sensors/167-dht22-digital-temperature-humidity-sensor-module) 4.99 GBP.
 
 ## HDC1080
 
