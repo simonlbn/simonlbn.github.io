@@ -4,7 +4,7 @@ title: Sensors
 
 # Temperature and Humidity Sensors
 
-| Sensor  | Price | Voltage |  Range       | T Typ | T Max | Hum Typ | Hum Max |
+| Sensor  | Price | Voltage | Range        | T Typ | T Max | Hum Typ | Hum Max |
 | ------- | ----- | ------- | ------------ | ----- | ----- | ------- | ------- |
 | DHT11   |  5.00 | 3.5-5.5 | -40C to 80C  |       | 2.00C | 4.0     | 5.0     |
 | DHT22   |  9.95 | 3.3-6.0 | -40C to 80C  | 0.50C |       | 2.0     | 5.0     |
