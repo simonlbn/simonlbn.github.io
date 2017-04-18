@@ -11,6 +11,7 @@ title: Sensors
 | DS18B20 |  3.00 |         | -10C to 85C  | 0.50C | 0.50C | N/A     | N/A     |
 | HDC1010 | 11.95 |         |   5C to 60C  | 0.20C | 0.40C | 2.0     | 3.0     |
 | HDC1080 | 10.95 |         |   5C to 60C  | 0.20C | 0.40C | 2.0     | 4.0     |
+| HTU21D  |       |  	    |   5C to 60C  | 0.30C | 0.40C | 2.0     | 3.0     |
 | SHT30-D |       | 2.4-5.5 |   0C to 76C  | 0.20C |       | 2.0     | 8.0     |
 | SHT31-D | 12.95 | 2.4-5.5 |   0C to 90C  | 0.20C |       | 2.0     | 3.5     |
 | SHT35-D | 17.95 | 2.4-5.5 |  20C to 60C  | 0.10C |       | 1.5     | 3.0     |
@@ -59,6 +60,7 @@ breakout board or something with sane pins.
 ## Si7021
 
 * [Adafruit](https://www.adafruit.com/product/3251)
+* [Blkbox](https://www.tindie.com/products/blkbox/si7021-digital-humidity-sensor-module/)
 * [Datasheet](http://www.silabs.com/documents/public/data-sheets/Si7021-A20.pdf)
 
 ## Si7051
@@ -74,3 +76,8 @@ breakout board or something with sane pins.
 ## Si7055
 
 * [Closedcube](https://www.tindie.com/products/closedcube/si7055-05c-max-digital-temperature-sensor/)
+
+## HTU21D(F)
+
+* http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FHPC199_6%7FA%7Fpdf%7FEnglish%7FENG_DS_HPC199_6_A.pdf%7FCAT-HSC0004
+* Humid range of specified accuracy 20-80 %RH
