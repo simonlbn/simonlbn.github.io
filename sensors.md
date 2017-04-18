@@ -8,7 +8,7 @@ title: Sensors
 | ------- | ----- | ------- | ------------ | ----- | ----- | ------- | ------- |
 | DHT11   |  5.00 | 3.5-5.5 | -40C to 80C  |       | 2.00C | 4.0     | 5.0     |
 | DHT22   |  9.95 | 3.3-6.0 | -40C to 80C  | 0.50C |       | 2.0     | 5.0     |
-| DS18B20 |       |         | -10C to 85C  | 0.50C | 0.50C | N/A     | N/A     |
+| DS18B20 |  3.00 |         | -10C to 85C  | 0.50C | 0.50C | N/A     | N/A     |
 | HDC1010 | 11.95 |         |   5C to 60C  | 0.20C | 0.40C | 2.0     | 3.0     |
 | HDC1080 | 10.95 |         |   5C to 60C  | 0.20C | 0.40C | 2.0     | 4.0     |
 | SHT30-D |       | 2.4-5.5 |   0C to 76C  | 0.20C |       | 2.0     | 8.0     |
@@ -16,6 +16,9 @@ title: Sensors
 | SHT35-D | 17.95 | 2.4-5.5 |  20C to 60C  | 0.10C |       | 1.5     | 3.0     |
 | Si7051  |  8.95 |         |  20C to 70C  | 0.13C | 0.13C | N/A     | N/A     |
 | Si7055  |  4.95 |         | -40C to 125C | 0.40C | 0.50C | N/A     | N/A     |
+
+Price is in USD and what can readaily be found available as either
+breakout board or something with sane pins.
 
 * T Typ = Temperature Typical &plusmn;
 * T Max = Temperature Max &plusmn;
