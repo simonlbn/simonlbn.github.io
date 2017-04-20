@@ -20,7 +20,7 @@ title: Sensors
 | Si7051  |  8.95 |         |  20C to 70C  | 0.13C | 0.13C | N/A     | N/A     |
 | Si7055  |  4.95 |         | -40C to 125C | 0.40C | 0.50C | N/A     | N/A     |
 
-For entries marked ** &#42; **, please see sensor specific details below.
+For entries marked **&#42;**, please see sensor specific details below.
 
 Price is in USD and what can readaily be found available as either
 breakout board or something with sane pins.
