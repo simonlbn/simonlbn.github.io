@@ -1,5 +1,3 @@
 # simonlbn.github.io
 
-Hello World!
-
-These pages contains notes from playing with MCUs / Micro Controllers.
+This is a website - see https://simonlbn.github.io.
