@@ -33,9 +33,11 @@ breakout board or something with sane pins.
 ## BME280
 
 * [Datasheet](https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-11.pdf)
-* NOTE: "Temperature measured by the internal temperature sensor. This temperature value depends
-on the PCB temperature, sensor element self-heating and ambient temperature and is typically
-above ambient temperature."
+* NOTE: "Temperature measured by the internal temperature sensor. This
+  temperature value depends on the PCB temperature, sensor element
+  self-heating and ambient temperature and is typically above ambient
+  temperature."
+* [Adafruit](https://www.adafruit.com/product/2652)
 
 ## DHT11
 
