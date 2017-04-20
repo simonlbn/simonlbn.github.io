@@ -6,6 +6,7 @@ title: Sensors
 
 | Sensor  | Price | Voltage | Range        | T Typ | T Max | Hum Typ | Hum Max |
 | ------- | ----- | ------- | ------------ | ----- | ----- | ------- | ------- |
+| BME280  | 19.90 | 1.7-3.6 |   0C to 60C  | 0.50C*| 1.00C |         | 3.0     |
 | DHT11   |  5.00 | 3.5-5.5 | -40C to 80C  |       | 2.00C | 4.0     | 5.0     |
 | DHT22   |  9.95 | 3.3-6.0 | -40C to 80C  | 0.50C |       | 2.0     | 5.0     |
 | DS18B20 |  3.00 |         | -10C to 85C  | 0.50C | 0.50C | N/A     | N/A     |
@@ -26,6 +27,13 @@ breakout board or something with sane pins.
 * T Max = Temperature Max &plusmn;
 * Hum Typ = Humidity Typical &plusmn;
 * Hum Max = Humidity Max &plusmn;
+
+## BME280
+
+* [Datasheet](https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-11.pdf)
+* NOTE: "Temperature measured by the internal temperature sensor. This temperature value depends
+on the PCB temperature, sensor element self-heating and ambient temperature and is typically
+above ambient temperature."
 
 ## DHT11
 
