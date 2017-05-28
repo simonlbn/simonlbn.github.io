@@ -18,7 +18,7 @@ title: Sensors
 | SHT35-D | 17.95 | 2.4-5.5 |  20C to 60C  | 0.10C |       | 1.5     | 3.0     |
 | Si7021  |  6.95 | 1.9-3.6 |  10C to 85V  | 0.30C | 0.40C | 2.0     | 3.0     |
 | Si7051  |  8.95 | 1.9-3.6 |  20C to 70C  | 0.13C | 0.13C | N/A     | N/A     |
-| Si7055  |  4.95 | 1.9-3.6 | -40C to 125C | 0.40C | 0.50C | N/A     | N/A     |
+| Si7055  |  4.95 | 1.9-3.6 | -40C - 125C  | 0.40C | 0.50C | N/A     | N/A     |
 
 For entries marked **&#42;**, please see sensor specific details below.
 
