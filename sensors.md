@@ -25,6 +25,8 @@ For entries marked **&#42;**, please see sensor specific details below.
 Price is in USD and what can readaily be found available as either
 breakout board or something with sane pins.
 
+* Range = Temperature range where T/Hum Typ/Max apply - sensor may
+  have larger ragner with less accuracy.
 * T Typ = Temperature Typical &plusmn;
 * T Max = Temperature Max &plusmn;
 * Hum Typ = Humidity Typical &plusmn;
