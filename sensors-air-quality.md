@@ -42,39 +42,45 @@ title: Air Quaility / Gas sensors
 * <https://www.olimex.com/Products/Components/Sensors/SNS-MQ3/> 4.50 EUR with breakout
 * <https://hobbycomponents.com/sensors/147-analogue-alcohol-sensor-mq3> 3.95 EUR with breakout
 * <https://www.proto-pic.co.uk/alcohol-gas-sensor-mq-3.html> 5.74 GBP
+* <https://www.sparkfun.com/products/8880> 4.95 USD
 
 ## MQ-4 - Methane CNG Gas Sensor
 
 * <https://www.hobbytronics.co.uk/mq4-methane-sensor> 5.40 EUR
 * <https://www.kiwi-electronics.nl/methane-cng-gas-sensor-mq-4> 5.95 EUR
+* https://www.sparkfun.com/products/9404 4.95 USD
 
 ## MQ-6 - LPG Gas Sensor
 
 * <https://www.hobbytronics.co.uk/mq6-propane-sensor> 5.40 EUR
 * <https://www.kiwi-electronics.nl/lpg-gas-sensor-mq-6> 5.95 EUR
 * <https://www.proto-pic.co.uk/lpg-gas-sensor-mq-6.html> 5.74 GBP
+* <https://www.sparkfun.com/products/9405> 4.95 USD
 
 ## MQ-7 - Carbon Monoxide Sensor
 
 * <https://www.hobbytronics.co.uk/mq7-carbon-monoxide-sensor> 7.05 EUR
 * <https://www.kiwi-electronics.nl/carbon-monoxide-sensor-mq-7> 8.50 EUR
-* <https://www.olimex.com/Products/Components/Sensors/SNS-MQ7/> 4.50 EUR
+* <https://www.olimex.com/Products/Components/Sensors/SNS-MQ7/> 4.50 EUR with breakout
 * <https://hobbycomponents.com/sensors/817-mq-7-carbon-monoxide-sensor-module> 2.82 EUR with breakout
 * <https://www.proto-pic.co.uk/carbon-monoxide-sensor-mq-7.html> 8.03 GBP
+* <https://www.sparkfun.com/products/9403> 7.25 USD
 
 ## MQ-8
 
 * <https://www.kiwi-electronics.nl/hydrogen-gas-sensor-mq-8> 9.50 EUR
 * <https://www.proto-pic.co.uk/hydrogen-gas-sensor-mq-8.html> 7.64 GBP
+* <https://www.sparkfun.com/products/10916> 7.95 USD
 
 ## MQ-9 - Carbon Monoxide and Flammable Gas Sensor
 
 * <https://www.proto-pic.co.uk/carbon-monoxide-and-flammable-gas-sensor-mq-9.html> 7.99 GBP
 
-## MQ-135
+## MQ-135 - NH3, NOx, alcohol, benzene, smoke, CO2 Sensor
 
-* <https://www.olimex.com/Products/Components/Sensors/SNS-MQ135/> 5.50 EUR
+* <https://www.olimex.com/Products/Components/Sensors/SNS-MQ135/> 5.50 EUR with breakout
 
 ## MQ breakout board
 
 * <https://www.proto-pic.co.uk/gas-sensor-breakout-board.html> 1.33 GBP
+* <https://www.sparkfun.com/products/8891> 0.95 USD
