@@ -117,6 +117,14 @@ breakout board or something with sane pins.
 
 # Air Quaility / Gas sensors
 
+## CCS811
+
+* <https://www.sparkfun.com/products/14193> $19.95
+
+## GP2Y1010AU0F
+
+* <https://www.sparkfun.com/products/9689> $11.95
+
 ## MQ-2
 
 * https://www.hobbytronics.co.uk/mq2-gas-smoke-sensor
