@@ -127,27 +127,27 @@ breakout board or something with sane pins.
 
 ## MQ-2
 
-* https://www.hobbytronics.co.uk/mq2-gas-smoke-sensor
-* https://www.olimex.com/Products/Components/Sensors/SNS-MQ2/
+* <https://www.hobbytronics.co.uk/mq2-gas-smoke-sensor>
+* <https://www.olimex.com/Products/Components/Sensors/SNS-MQ2/>
 
 ## MQ-3
 
-* https://www.hobbytronics.co.uk/mq3-alcohol-gas-sensor
-* https://www.olimex.com/Products/Components/Sensors/SNS-MQ3/
+* <https://www.hobbytronics.co.uk/mq3-alcohol-gas-sensor>
+* <https://www.olimex.com/Products/Components/Sensors/SNS-MQ3/>
 
 ## MQ-4
 
-* https://www.hobbytronics.co.uk/mq4-methane-sensor
+* <https://www.hobbytronics.co.uk/mq4-methane-sensor>
 
 ## MQ-6
 
-* https://www.hobbytronics.co.uk/mq6-propane-sensor
+* <https://www.hobbytronics.co.uk/mq6-propane-sensor>
 
 ## MQ-7
 
-* https://www.hobbytronics.co.uk/mq7-carbon-monoxide-sensor
-* https://www.olimex.com/Products/Components/Sensors/SNS-MQ7/
+* <https://www.hobbytronics.co.uk/mq7-carbon-monoxide-sensor>
+* <https://www.olimex.com/Products/Components/Sensors/SNS-MQ7/>
 
 ## MQ-135
 
-* https://www.olimex.com/Products/Components/Sensors/SNS-MQ135/
+* <https://www.olimex.com/Products/Components/Sensors/SNS-MQ135/>
