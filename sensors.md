@@ -34,18 +34,18 @@ breakout board or something with sane pins.
 
 # Air Quaility / Gas sensors
 
-| Sensor   | Type                                   |
-| -------- | -------------------------------------- |
-| CCS811   | Volatile organic compound              |
-| MAX30105 | Particle Sensor                        |
-| MQ-2     | Flammable Gas and Smoke                |
-| MQ-3     | Alcohol Gas                            |
-| MQ-4     | Methane Gas                            |
-| MQ-6     | LPG - Isobutane - Propane Gas          |
-| MQ-7     | Carbon Monoxide                        |
-| MQ-8     | Hydrogen Gas                           |
-| MQ-135   | NH3, NOx, alcohol, benzene, smoke, CO2 |
-
+| Sensor       | Type                                   |
+| ------------ | -------------------------------------- |
+| CCS811       | Volatile organic compound              |
+| GP2Y1010AU0F | Optical Dust
+| MAX30105     | Particle Sensor                        |
+| MQ-2         | Flammable Gas and Smoke                |
+| MQ-3         | Alcohol Gas                            |
+| MQ-4         | Methane Gas                            |
+| MQ-6         | LPG - Isobutane - Propane Gas          |
+| MQ-7         | Carbon Monoxide                        |
+| MQ-8         | Hydrogen Gas                           |
+| MQ-135       | NH3, NOx, alcohol, benzene, smoke, CO2 |
 
 # Sensor Details
 
@@ -114,3 +114,32 @@ breakout board or something with sane pins.
 * Humid range of specified accuracy 20-80 %RH
 * [Adafrui](https://www.adafruit.com/product/1899)
 * [Blkbox](https://www.tindie.com/products/blkbox/htu21d-digital-humidity-sensor-module/)
+
+# Air Quaility / Gas sensors
+
+## MQ-2
+
+* https://www.hobbytronics.co.uk/mq2-gas-smoke-sensor
+* https://www.olimex.com/Products/Components/Sensors/SNS-MQ2/
+
+## MQ-3
+
+* https://www.hobbytronics.co.uk/mq3-alcohol-gas-sensor
+* https://www.olimex.com/Products/Components/Sensors/SNS-MQ3/
+
+## MQ-4
+
+* https://www.hobbytronics.co.uk/mq4-methane-sensor
+
+## MQ-6
+
+* https://www.hobbytronics.co.uk/mq6-propane-sensor
+
+## MQ-7
+
+* https://www.hobbytronics.co.uk/mq7-carbon-monoxide-sensor
+* https://www.olimex.com/Products/Components/Sensors/SNS-MQ7/
+
+## MQ-135
+
+* https://www.olimex.com/Products/Components/Sensors/SNS-MQ135/
