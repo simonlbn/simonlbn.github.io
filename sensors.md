@@ -32,6 +32,23 @@ breakout board or something with sane pins.
 * Hum Typ = Humidity Typical &plusmn;
 * Hum Max = Humidity Max &plusmn;
 
+# Air Quaility / Gas sensors
+
+| Sensor   | Type                                   |
+| -------- | -------------------------------------- |
+| CCS811   | Volatile organic compound              |
+| MAX30105 | Particle Sensor                        |
+| MQ-2     | Flammable Gas and Smoke                |
+| MQ-3     | Alcohol Gas                            |
+| MQ-4     | Methane Gas                            |
+| MQ-6     | LPG - Isobutane - Propane Gas          |
+| MQ-7     | Carbon Monoxide                        |
+| MQ-8     | Hydrogen Gas                           |
+| MQ-135   | NH3, NOx, alcohol, benzene, smoke, CO2 |
+
+
+# Sensor Details
+
 ## BME280
 
 * [Datasheet](https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-11.pdf)
