@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+/* Make menu wider */
 header {
-       padding-left: 25px;
+  padding-left: 25px;
+}
+header li {
+  list-style-type: none;
+  width: 150px;
 }
