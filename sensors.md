@@ -119,6 +119,7 @@ breakout board or something with sane pins.
 
 ## CCS811
 
+* <https://www.adafruit.com/product/3566> $19.95
 * <https://www.sparkfun.com/products/14193> $19.95
 
 ## GP2Y1010AU0F
@@ -138,15 +139,22 @@ breakout board or something with sane pins.
 ## MQ-4
 
 * <https://www.hobbytronics.co.uk/mq4-methane-sensor> 5.40 EUR
+* <https://www.kiwi-electronics.nl/methane-cng-gas-sensor-mq-4> 5.95 EUR
 
 ## MQ-6
 
 * <https://www.hobbytronics.co.uk/mq6-propane-sensor> 5.40 EUR
+* <https://www.kiwi-electronics.nl/lpg-gas-sensor-mq-6> 5.95 EUR
 
 ## MQ-7
 
-* <https://www.hobbytronics.co.uk/mq7-carbon-monoxide-sensor> 7.05E
+* <https://www.hobbytronics.co.uk/mq7-carbon-monoxide-sensor> 7.05 EUR
+* <https://www.kiwi-electronics.nl/carbon-monoxide-sensor-mq-7> 8.50 EUR
 * <https://www.olimex.com/Products/Components/Sensors/SNS-MQ7/> 4.50 EUR
+
+## MQ-8
+
+* <https://www.kiwi-electronics.nl/hydrogen-gas-sensor-mq-8> 9.50 EUR
 
 ## MQ-135
 
