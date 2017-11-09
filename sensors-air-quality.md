@@ -7,7 +7,7 @@ title: Air Quaility / Gas sensors
 | Sensor       | Type                                   |
 | ------------ | -------------------------------------- |
 | CCS811       | Volatile organic compound              |
-| GP2Y1010AU0F | Optical Dust
+| GP2Y1010AU0F | Optical Dust                           |
 | MAX30105     | Particle Sensor                        |
 | MQ-2         | Flammable Gas and Smoke                |
 | MQ-3         | Alcohol Gas                            |
@@ -15,6 +15,7 @@ title: Air Quaility / Gas sensors
 | MQ-6         | LPG - Isobutane - Propane Gas          |
 | MQ-7         | Carbon Monoxide                        |
 | MQ-8         | Hydrogen Gas                           |
+| MQ-9         | Carbon Monoxide and Flammable Gas      |
 | MQ-135       | NH3, NOx, alcohol, benzene, smoke, CO2 |
 
 # Sensor Details
