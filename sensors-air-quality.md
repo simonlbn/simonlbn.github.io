@@ -66,7 +66,7 @@ title: Air Quaility / Gas sensors
 * <https://www.proto-pic.co.uk/carbon-monoxide-sensor-mq-7.html> 8.03 GBP
 * <https://www.sparkfun.com/products/9403> 7.25 USD
 
-## MQ-8
+## MQ-8 - Hydrogen Gas Sensor
 
 * <https://www.kiwi-electronics.nl/hydrogen-gas-sensor-mq-8> 9.50 EUR
 * <https://www.proto-pic.co.uk/hydrogen-gas-sensor-mq-8.html> 7.64 GBP
