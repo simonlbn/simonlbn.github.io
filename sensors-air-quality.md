@@ -9,6 +9,7 @@ title: Air Quaility / Gas sensors
 | CCS811       | Volatile organic compound              |
 | GP2Y1010AU0F | Optical Dust                           |
 | MAX30105     | Particle Sensor                        |
+| MG811        | Carbon Dioxode                         |
 | MQ-2         | Flammable Gas and Smoke                |
 | MQ-3         | Alcohol Gas                            |
 | MQ-4         | Methane Gas                            |
@@ -16,9 +17,29 @@ title: Air Quaility / Gas sensors
 | MQ-7         | Carbon Monoxide                        |
 | MQ-8         | Hydrogen Gas                           |
 | MQ-9         | Carbon Monoxide and Flammable Gas      |
+| MQ-131       | Ozone                                  |
 | MQ-135       | NH3, NOx, alcohol, benzene, smoke, CO2 |
+| MH-Z14       | Carbon Dioxode                         |
+| SGP30        | Volatile Organic Compound              |
+| SGPC3        | Volatile Organic Compound              |
 
 # Sensor Details
+
+## SGP30
+
+* <https://www.sensirion.com/en/environmental-sensors/gas-sensors/>
+
+## SGPC3
+
+* <https://www.sensirion.com/en/environmental-sensors/gas-sensors/>
+
+## BME680
+
+* <https://www.tindie.com/products/closedcube/closedcube-bme680-environment-sensor-w18v-out/> 24.95 USD
+
+## MH-Z14
+
+* <http://www.futurlec.com/Gas_Sensors.shtml> 109.90 USD
 
 ## CCS811
 
