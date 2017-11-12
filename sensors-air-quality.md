@@ -36,6 +36,7 @@ title: Air Quaility / Gas sensors
 ## BME680
 
 * <https://www.tindie.com/products/closedcube/closedcube-bme680-environment-sensor-w18v-out/> 24.95 USD
+* <https://www.adafruit.com/product/3660> 22.50 USD
 
 ## MH-Z14
 
