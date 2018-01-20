@@ -1,5 +1,6 @@
 ---
 title: Air Quaility / Gas sensors
+redirect_from: /sensors-air-quality
 ---
 
 # Air Quaility / Gas sensors
