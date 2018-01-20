@@ -29,6 +29,7 @@ redirect_from: /sensors-air-quality
 ## SGP30
 
 * <https://www.sensirion.com/en/environmental-sensors/gas-sensors/>
+* <https://www.adafruit.com/product/3709> 19.95 USD
 
 ## SGPC3
 
